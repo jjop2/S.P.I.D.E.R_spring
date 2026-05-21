@@ -8,8 +8,8 @@ S.P.I.D.E.R는 스마트팩토리 환경에서 **설비 센서 데이터와 이�
 실시간 데이터 수집부터 AI 기반 분석, 웹 대시보드 시각화까지  
 하나의 흐름으로 연결된 구조를 목표로 설계되었습니다.
 
-[🔗 Flask Github](https://github.com/betterproject-dev/spider_flask)  -  Python 기반 데이터 전처리 및 AI 모델 추론 엔진 <br/>
-[🔗 React Github](https://github.com/jjop2/spider_front.git)
+[🔗 Flask Github](https://github.com/jjop2/S.P.I.D.E.R_flask.git)  -  Python 기반 데이터 전처리 및 AI 모델 추론 엔진 <br/>
+[🔗 React Github](https://github.com/jjop2/S.P.I.D.E.R_frontend.git)
 
 <br/>
 
